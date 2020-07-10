@@ -83,10 +83,6 @@ Time dolazimo do sljedećeg zaključka:
 unutarnje stanje;
 - Klasa `Board` će implementirati cjelokupnu logiku igre.
 
-<p align="center">
-  <img src="data/tetrimino.png" width="110" title="hover text">
-</p>
-
 ### Klasa `Board`
 
 Kako klasa `Board` implementira cijelu logiku igre imat će puno
@@ -114,10 +110,6 @@ računa bodova.
 
 Klasa  `Board` bi mogla biti implementirana pomoću sljedećih funkcija:
 
-<p align="center">
-  <img src="data/board.png" width="210" title="hover text">
-</p>
-
 ## Komunikacija među objektima
 
 Klasa `Game` u svojoj `update()` metodi mora zvati `update()` metode
@@ -130,10 +122,6 @@ Objekti tipa `Board` i  `Score` imaju životni vijek koji je određen
 `Game` objekta i uništavaju se kada se uništava `Game` objekt.
 Stoga je `Game` objekt *komponiran* od objekata tipa `Board` i
  `Score` i stoga oni mogu biti varijable članice klase  `Game`.
-
- <p align="center">
-  <img src="data/game-agreg.png" width="280" title="hover text">
-</p>
 
 Slična je situacija između objekta klase `Board` i objekta klase
 `Tetrimino`. I tu koristimo kompoziciju kao odnos između klasa.
