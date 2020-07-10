@@ -11,12 +11,6 @@ Responsibilities of this class are:
 - updates scene
 - draws scene
 
-
-
-<p align="center">
-  <img src="data/game-1.png" width="150" title="hover text">
-</p>
-
 There are multiple objects in a scene:
 - Table(grid) 
 - Piece that falls from top to bottom
@@ -26,11 +20,6 @@ With that in mind, we have 3 additionall classes:
 - 'Board' - represents a table
 - 'Tetrimino' - game piece
 - 'Score' - result
-
-<p align="center">
-  <img src="data/other.png" width="390" title="hover text">
-</p>
-
 
 
 Object that falls can be moved left and right until it has fallen to the bottom or on the other object. 
@@ -56,9 +45,6 @@ ispisuje "Game over" string.
 
 Objekt klase `Score` mora se još  iscrtavati i aktualizirati (promijeniti broj bodova koji će ispisati).
 
-<p align="center">
-  <img src="data/score.png" width="200" title="hover text">
-</p>
 
 ###  Klasa `Tetrimino`
 
@@ -152,9 +138,6 @@ Stoga je `Game` objekt *komponiran* od objekata tipa `Board` i
 Slična je situacija između objekta klase `Board` i objekta klase
 `Tetrimino`. I tu koristimo kompoziciju kao odnos između klasa.
 
-<p align="center">
-  <img src="data/tetrimino-agreg.png" width="390" title="hover text">
-</p>
 
 ## Implementacijski detalji
 
