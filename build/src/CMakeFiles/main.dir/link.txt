@@ -1,0 +1,1 @@
+/usr/bin/c++   -Wall -std=c++11  -rdynamic CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/game.cpp.o CMakeFiles/main.dir/board.cpp.o CMakeFiles/main.dir/tetrimino.cpp.o CMakeFiles/main.dir/score.cpp.o  -o main -lsfml-system -lsfml-window -lsfml-graphics -lsfml-audio 

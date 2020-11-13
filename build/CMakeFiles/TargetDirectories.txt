@@ -1,0 +1,7 @@
+/home/leve1997/Desktop/OP2019/GitHub/tetris-leve1997/build/CMakeFiles/rebuild_cache.dir
+/home/leve1997/Desktop/OP2019/GitHub/tetris-leve1997/build/CMakeFiles/test.dir
+/home/leve1997/Desktop/OP2019/GitHub/tetris-leve1997/build/CMakeFiles/edit_cache.dir
+/home/leve1997/Desktop/OP2019/GitHub/tetris-leve1997/build/src/CMakeFiles/rebuild_cache.dir
+/home/leve1997/Desktop/OP2019/GitHub/tetris-leve1997/build/src/CMakeFiles/edit_cache.dir
+/home/leve1997/Desktop/OP2019/GitHub/tetris-leve1997/build/src/CMakeFiles/main.dir
+/home/leve1997/Desktop/OP2019/GitHub/tetris-leve1997/build/src/CMakeFiles/test.dir
